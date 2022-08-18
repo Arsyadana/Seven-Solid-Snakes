@@ -1,4 +1,4 @@
-# Seven-Solid-Snakes
+# Seven-Solid-Snakes Team
 Final project dalam bootcamp Data Science Rakamin Academy
 
 Seven Solid Snakes Team:
